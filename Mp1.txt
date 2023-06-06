@@ -1,0 +1,68 @@
+<span>
+<head>
+<title>Xiao-A Karmic Yaksha</title>
+<meta name="description" content="Xiao"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"
+</head>
+<body background="bgg2.jpg">
+<h1 style="color:purple;" align="center"><font face="lato"><img height="50" src="a.gif"/><i>Xiao-Doombane<img height="50" src="a.gif"/></i></font></h1>
+<hr/>
+<p><b><i><h2 style="color:black;"><p>He is an adeptus, under the name Alatus, and the only known remaining member of the five foremost Yakshas dispatched by Morax to subdue the demonic spirits that plagued Liyue. He currently resides in Wangshu Inn and mostly secludes himself from crowds and human interactions.</p><p>One of the "Mighty and Illuminated Adepti" guarding Liyue, also heralded as the "Guardian yaksha." Despite his appearance as a young man, occasional legends about him have been documented in ancient books for thousands of years. He is especially fond of Wangshu Inn's Almond Tofu. The reason is that the dish tastes just like the "dreams" he used to devour.</p></h2></i></b></p>
+<hr/><hr/>
+<header>
+</header>
+<main>
+<article>
+<section>
+<h3><i style="color:purple;background-color:purple;"><ol type="i">
+<li>Character
+<ul><li><a href="https://genshin-impact.fandom.com/wiki/Xiao/Lore" target="_blank"><i style="color:purple;">History</i></a></li><li><a href="https://gamewith.net/genshin-impact/article/show/24400" target="_blank"><i style="color:purple;">StoryQuest</i></a></li></ul></li>
+<li><a href="https://genshin.gg/characters/Xiao" target=_blank><i style="color:purple;">Skills And Overview</i></a></li>
+</ol></i></h3>
+<img width="790" height="500" src="xiao.jpeg" alt="A beautiful xiao" />
+<img width="700"height="500" src="xiao3.jpeg" alt="Another beauty xiao image"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="350" width="550" src="xg1.gif"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="350" width="550" src="xg3.gif"/>  <!-- img tag is a single tagHh -->
+<h1 style="color:purple;" align="center">
+<font face="lato" size="5"><i>Skill Brief</i></font></h1>
+<h3><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Normal-Attack
+<img src="n1.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <!-- One way of provideing spaces instead of aligning to center,by using &nbsp; -->
+Charged-Attack <img src="s1.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ultimate <img src="s2.png"/></i></h3><hr/>
+<h1 style="color:purple;" align="center">
+<font face="lato" size="5"><i>Ascension Materials</i></font></h1>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juvenile Jade<img src="jj.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Vayuda Turquoise<img src="gem.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Quinxin<img src="q.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Slime Concentrate<img src="slime.png"/></h3><hr/>
+<table border="1">
+  <thead>
+    <h2 style="color:purple;"><i>Strogest Xiao Mains</i><h2>
+   <tr>
+     <th><h3>S.no</h3></th>
+     <th><h3>Name</h3></th>
+     <th><h3>Attack</h3></th>
+     <th><h3>CritRate</h3></th>
+     <th><h3>CritDmg</h3></th></tr>
+  </thead><hr/>
+    <tbody>
+     <tr>
+      <td><h3>1</h3></td><td><h3>Xyox</h3></td><td><h3>2100</h3></td><td><h3>87%</h3></td><td><h3>220%</h3></td></tr>
+       <td><h3>2</h3></td><td><h3>ulora</h3></td><td><h3>2000</h3></td><td><h3>80%</h3></td><td><h3>200%</h3></td></tr>
+     </tbody>
+</table>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/sjozpa9DsZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<frame><input type="date"/><input type="time"/><textarea cols="64" rows="80">Enter your Comment</textarea><input type="submit"/></form>
+</section>
+<section><h3 align="center"><font face=lato"><a href="thank.jpg" target="_blank"><h2><b><i style="color:purple;">Click to Log out</i></b></h2></a></font></h3></section>
+<hr/>
+<h2 align="center">
+	<font face="lato"><i>
+	<a href="https://twitter.com/GenshinImpact?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Twitter</a><br/>
+	<a href="https://www.facebook.com/Genshinimpact/">Facebook</a><br/>
+	<a href="https://genshin.mihoyo.com/en/">GenshinOfficial</a><br/>
+</i></font>
+</h2>
+</article>
+</main>
+
+</body>
+</span> 
